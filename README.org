@@ -1,0 +1,15 @@
+# Chroma manoj-dark
+
+## Overview
+
+This is a StyleSheet for chroma respected to manoj-dark.
+Manoj-dark is one of the emacs dark color-theme.
+
+## Install
+
+Just overwrite =style.css= .
+
+#+begin_example
+# cp style.css ${HUGO_PATH}/static/css/style.css
+#+end_example
+
