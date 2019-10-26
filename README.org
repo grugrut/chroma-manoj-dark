@@ -7,9 +7,9 @@ Manoj-dark is one of the emacs dark color-theme.
 
 ** Install
 
-Just overwrite =style.css= .
+Just overwrite =syntax.css= .
 
 #+begin_example
-# cp style.css ${HUGO_PATH}/static/css/style.css
+# cp syntax.css ${HUGO_PATH}/static/css/syntax.css
 #+end_example
 
